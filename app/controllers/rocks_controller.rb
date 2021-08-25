@@ -1,2 +1,0 @@
-class RocksController < ApplicationController
-end
